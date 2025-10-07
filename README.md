@@ -32,4 +32,13 @@ En resumen, **Nginx** es ideal para rendimiento y escalabilidad, mientras que **
 ```bash
 sudo apt update
 sudo apt install nginx -y
+```
+### Comandos básicos:
+
+```bash
+
+sudo systemctl start nginx
+sudo systemctl enable nginx
+sudo systemctl status nginx
+```
 
