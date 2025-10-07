@@ -109,7 +109,7 @@ sudo nano /var/www/html/index.html
     <title>Servidor Nginx Personalizado</title>
 </head>
 <body>
-    <h1>¡Bienvenido al servidor Nginx de <TU NOMBRE>!</h1>
+    <h1>¡Bienvenido al servidor Nginx de Iván Barranco!</h1>
     <p>Esta es una página web personalizada.</p>
 </body>
 </html>
