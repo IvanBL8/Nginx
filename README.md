@@ -176,3 +176,14 @@ sudo systemctl reload nginx
 Ahora accede a:
 **https://balanceador.local**
 y verás cómo balancea las peticiones entre los dos sitios backend
+
+
+## 5. Referencias
+
+[Documentación oficial de Nginx](https://nginx.org/en/docs/)
+
+[Guía DigitalOcean: Cómo configurar Nginx](https://www.digitalocean.com/community/tutorials)
+
+[Nginx vs Apache Benchmark](https://kinsta.com/blog/nginx-vs-apache/)
+
+[Configuración de balanceo de carga en Nginx](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/)
